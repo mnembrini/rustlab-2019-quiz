@@ -1,0 +1,7 @@
+[package]
+name = "rustlab-quiz"
+version = "0.1.0"
+authors = ["Marco Nembrini <marco@3ap.ch>"]
+edition = "2018"
+
+[dependencies]
